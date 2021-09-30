@@ -1,0 +1,15 @@
+C:\Users\Santiago\source\repos\rectangulo\bin\Debug\netcoreapp3.1\rectangulo.exe
+C:\Users\Santiago\source\repos\rectangulo\bin\Debug\netcoreapp3.1\rectangulo.deps.json
+C:\Users\Santiago\source\repos\rectangulo\bin\Debug\netcoreapp3.1\rectangulo.runtimeconfig.json
+C:\Users\Santiago\source\repos\rectangulo\bin\Debug\netcoreapp3.1\rectangulo.runtimeconfig.dev.json
+C:\Users\Santiago\source\repos\rectangulo\bin\Debug\netcoreapp3.1\rectangulo.dll
+C:\Users\Santiago\source\repos\rectangulo\bin\Debug\netcoreapp3.1\rectangulo.pdb
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.csprojAssemblyReference.cache
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.Form1.resources
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.csproj.GenerateResource.cache
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.dll
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.pdb
+C:\Users\Santiago\source\repos\rectangulo\obj\Debug\netcoreapp3.1\rectangulo.genruntimeconfig.cache
